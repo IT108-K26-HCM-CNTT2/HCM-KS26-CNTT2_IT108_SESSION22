@@ -22,6 +22,8 @@ AI hướng dẫn em mở Terminal/Command Prompt dưới quyền **Run as Admin
 |  ├── Click chuột phải > Chọn "Run as Administrator"                     |
 |  └── [Chụp ảnh màn hình minh họa]                                        |
 +-------------------------------------------------------------------------+
+![alt text](1.jpg)
+
 ```
 
 #### **Các lưu ý bảo mật & chuyên nghiệp khi chụp ảnh màn hình gửi bài/nhờ hỗ trợ:**
